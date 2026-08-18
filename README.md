@@ -104,3 +104,11 @@ strong-adjustment-stock-picker/
 > ⚠️ **本工具仅供学习研究和技术形态筛选，不构成任何投资建议。**
 >
 > 股市有风险，投资需谨慎。
+
+---
+
+## 支持作者
+
+如果这个工具对你有帮助，欢迎打赏支持 👇
+
+<img src="wechat-reward.jpg" width="240" alt="微信赞赏码">
