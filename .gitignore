@@ -1,0 +1,7 @@
+# Python 字节码 / 缓存
+__pycache__/
+*.pyc
+
+# 扫描结果与参数缓存（每次运行重新生成，不入库）
+scan_result.json
+scan_cache.json
